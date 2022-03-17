@@ -10,7 +10,7 @@
 
 ## Resources 
 - Data Source: clean_students_complete.csv, missing_grades.csv, schools_complete.csv, students_complete
-- Software: Python 3.11, Visual Studio Code 
+- Software: Python 3.11, Jupyter Notebook, Pandas library
 
 ## Summary
 
