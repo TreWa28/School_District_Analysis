@@ -13,8 +13,16 @@
 - Software: Python 3.11, Jupyter Notebook, Pandas library
 
 ## Summary
+- Made sure there were no errors in the data 
+- Created a District Summary Dataframe
+- Found the highest and lowest performing schools
+- Created a Dataframe based on grade level
+- Established the spending ranges per student 
+- Created a Dataframe fot the schools by school spending 
+- Created a Dataframe for the school by school size
+- Created a Dataframe for the schools by school type 
 
-  
+
 ## Challenge Overview
 
 ## Challenge Summary
