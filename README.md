@@ -24,5 +24,10 @@
 
 
 ## Challenge Overview
+The schoolboard believes that the reading and math scores for Thomas High School show evidence of academic dishonesty. To keep the integrity of the data well replace the scores with NaNs.
 
 ## Challenge Summary
+- The task in the weekly challenge was to replace the Thomas High School ninth grade reading and math scores due to evidence of altered grades.
+
+- Repeat the school district analysis with the replaced ninth grade scores.
+- Write up report to show how these differnces affected the overall analysis.
